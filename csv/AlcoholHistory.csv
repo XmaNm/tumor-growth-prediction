@@ -1,0 +1,2059 @@
+pid,AlcoholHistory.ctil_id,code,AlcoholHistory.lss_alcohol_freq,AlcoholHistory.lss_alcohol_num
+100012,139220,1,Four or more times a week,2~3
+100049,329508,1,Four or more times a week,2~3
+100055,265504,1,Two to four times a month,1
+100147,77628,0,Missing,0
+100158,96248,0,Never,0
+100196,250720,1,Two to four times a month,1
+100242,87577,1,Two to four times a month,1
+100264,348409,0,Never,0
+100280,141952,1,Four or more times a week,2~3
+100292,201335,1,Four or more times a week,2~3
+100323,260307,1,Four or more times a week,8 or more
+100335,349530,0,Never,0
+100353,93807,1,Four or more times a week,2~3
+100381,39461,1,Monthly or less often,2~3
+100385,212332,1,Two to three times a week,2~3
+100416,275461,1,Monthly or less often,2~3
+100423,328351,1,Four or more times a week,1
+100444,372920,1,Four or more times a week,4
+100505,228023,1,Four or more times a week,2~3
+100518,63727,1,Four or more times a week,2~3
+100560,94037,1,Four or more times a week,1
+100570,127761,1,Four or more times a week,2~3
+100574,322164,1,Two to three times a week,2~3
+100580,105510,1,Monthly or less often,2~3
+100619,30841,0,Never,0
+100658,7765,0,Never,0
+100670,219535,1,Two to four times a month,2~3
+100678,280784,0,Never,0
+100681,152496,1,Four or more times a week,5~7
+100684,226175,0,Missing,0
+100687,215509,0,Never,0
+100697,23994,1,Two to three times a week,5~7
+100703,89912,1,Two to three times a week,4
+100709,21527,0,Never,0
+100778,223370,1,Monthly or less often,1
+100824,215129,1,Four or more times a week,2~3
+100846,152082,1,Two to three times a week,5~7
+100881,354225,1,Two to three times a week,2~3
+100913,116087,1,Four or more times a week,5~7
+100935,36848,1,Two to four times a month,2~3
+100941,359760,0,Never,0
+100954,134536,1,Monthly or less often,1
+100982,353888,1,Monthly or less often,5~7
+101066,170522,1,Four or more times a week,2~3
+101068,75549,1,Two to four times a month,2~3
+101077,14407,1,Four or more times a week,2~3
+101080,328179,0,Never,0
+101164,341024,1,Monthly or less often,1
+101192,26831,0,Never,0
+101197,5942,1,Two to three times a week,2~3
+101216,338905,0,Never,0
+101226,203364,1,Four or more times a week,2~3
+101274,292748,1,Four or more times a week,2~3
+101275,215442,0,Never,0
+101287,149872,0,Never,0
+101387,83824,0,Never,0
+101397,165720,1,Two to four times a month,1
+101417,137612,1,Four or more times a week,8 or more
+101422,72207,1,Two to three times a week,2~3
+101428,99150,1,Four or more times a week,2~3
+101449,220566,1,Two to three times a week,2~3
+101507,288811,0,Never,0
+101547,275131,1,Two to three times a week,2~3
+101555,318428,0,Never,0
+101569,224048,1,Monthly or less often,2~3
+101611,231084,1,Two to three times a week,8 or more
+101683,56069,1,Four or more times a week,1
+101692,151977,1,Four or more times a week,8 or more
+101695,227835,1,Four or more times a week,2~3
+101784,366898,0,Missing,0
+101790,117366,0,Never,0
+101834,31567,1,Two to three times a week,2~3
+101837,50583,0,Never,0
+101854,311506,0,Never,0
+101892,201079,1,Monthly or less often,1
+101907,32144,1,Four or more times a week,5~7
+101916,13094,1,Monthly or less often,2~3
+101957,72348,0,Never,0
+102005,365817,1,Four or more times a week,2~3
+102037,303586,1,Four or more times a week,2~3
+102097,354472,1,Four or more times a week,4
+102110,17491,1,Monthly or less often,1
+102136,83865,1,Two to four times a month,1
+102137,333989,1,Four or more times a week,2~3
+102144,46169,1,Four or more times a week,2~3
+102161,98699,1,Monthly or less often,2~3
+102170,361378,0,Never,0
+102202,281832,1,Two to four times a month,2~3
+102266,142257,1,Two to four times a month,2~3
+102267,44529,1,Four or more times a week,1
+102319,249037,1,Monthly or less often,2~3
+102366,343491,1,Monthly or less often,1
+102388,40865,1,Monthly or less often,1
+102421,341446,1,Four or more times a week,8 or more
+102455,356154,1,Four or more times a week,5~7
+102488,40253,1,Monthly or less often,1
+102537,43943,0,Never,0
+102557,271460,1,Monthly or less often,1
+102581,147603,1,Two to three times a week,2~3
+102608,48595,1,Four or more times a week,2~3
+102648,371252,1,Two to four times a month,1
+102658,143990,1,Monthly or less often,1
+102660,28019,1,Two to three times a week,2~3
+102676,40295,1,Two to three times a week,1
+102736,115964,0,Never,0
+102746,729,1,Monthly or less often,4
+102796,126573,1,Monthly or less often,1
+102799,243865,1,Two to four times a month,4
+102806,41715,1,Two to three times a week,2~3
+102852,305789,1,Two to three times a week,2~3
+102936,254441,0,Never,0
+103050,211631,0,Never,0
+103065,318303,0,Never,0
+103082,314385,1,Monthly or less often,1
+103189,345025,1,Monthly or less often,2~3
+103197,73833,0,Missing,0
+103204,286401,1,Four or more times a week,2~3
+103232,170761,1,Two to three times a week,2~3
+103302,157388,0,Never,0
+103339,249540,1,Monthly or less often,2~3
+103344,171082,0,Never,0
+103359,31740,1,Four or more times a week,2~3
+103362,323014,1,Monthly or less often,2~3
+103376,134544,1,Four or more times a week,4
+103388,127357,1,Two to four times a month,4
+103406,203331,0,Never,0
+103477,284505,1,Four or more times a week,8 or more
+103501,223065,1,Four or more times a week,2~3
+103507,65441,1,Two to four times a month,2~3
+103521,162883,1,Monthly or less often,1
+103545,16360,1,Monthly or less often,1
+103566,54056,1,Two to four times a month,2~3
+103608,54296,1,Two to four times a month,2~3
+103613,22236,1,Two to three times a week,2~3
+103619,98442,1,Monthly or less often,1
+103621,10850,1,Four or more times a week,1
+103648,365262,1,Two to three times a week,2~3
+103665,64386,1,Four or more times a week,2~3
+103703,74419,0,Never,0
+103760,158972,1,Monthly or less often,1
+103766,253476,1,Monthly or less often,2~3
+103787,13219,1,Monthly or less often,1
+103791,231027,1,Four or more times a week,2~3
+103879,120535,0,Never,0
+103883,232256,0,Never,0
+103896,272799,0,Missing,0
+103957,112649,0,Never,0
+103958,110072,0,Never,0
+104009,55301,0,Never,0
+104038,76984,1,Two to four times a month,2~3
+104063,102293,1,Four or more times a week,2~3
+104114,142687,1,Two to three times a week,4
+104117,213173,0,Never,0
+104136,21485,1,Monthly or less often,2~3
+104168,106757,0,Never,0
+104182,57380,1,Monthly or less often,1
+104194,371591,1,Four or more times a week,2~3
+104208,56283,0,Never,0
+104248,68890,1,Four or more times a week,2~3
+104281,205633,1,Four or more times a week,2~3
+104298,369512,0,Never,0
+104325,157578,1,Monthly or less often,2~3
+104333,363804,1,Two to three times a week,2~3
+104348,364752,1,Two to four times a month,1
+104363,19547,1,Four or more times a week,2~3
+104386,96818,0,Missing,0
+104410,337782,1,Four or more times a week,2~3
+104429,277582,1,Four or more times a week,2~3
+104564,104943,0,Never,0
+104575,94359,1,Two to three times a week,2~3
+104592,57828,1,Monthly or less often,1
+104645,357541,1,Four or more times a week,1
+104674,331058,0,Never,0
+104683,86785,1,Two to three times a week,2~3
+104778,132639,1,Two to four times a month,2~3
+104815,51029,1,Monthly or less often,1
+104839,71324,1,Four or more times a week,4
+104842,84970,0,Never,0
+104892,301390,1,Two to four times a month,1
+104905,366476,0,Missing,0
+104928,203026,1,Monthly or less often,1
+104930,55806,0,Never,0
+104960,132472,1,Four or more times a week,4
+104964,139824,1,Two to four times a month,1
+104999,142323,1,Monthly or less often,1
+105012,124198,1,Four or more times a week,2~3
+105051,282574,1,Monthly or less often,1
+105120,41707,0,Never,0
+105121,20065,1,Two to four times a month,2~3
+105142,106708,1,Monthly or less often,0
+105144,146373,1,Two to four times a month,2~3
+105165,133140,0,Never,0
+105179,21592,1,Two to four times a month,1
+105187,344457,1,Monthly or less often,1
+105279,350983,1,Monthly or less often,2~3
+105309,338558,0,Never,0
+105325,204875,1,Four or more times a week,1
+105332,301473,0,Never,0
+105340,58552,1,Two to four times a month,1
+105352,53637,0,Never,0
+105368,208967,1,Two to four times a month,2~3
+105384,57703,1,Two to four times a month,2~3
+105424,297937,1,Two to three times a week,2~3
+105514,161943,1,Monthly or less often,8 or more
+105540,137513,0,Never,0
+105543,109835,1,Monthly or less often,2~3
+105562,37309,1,Monthly or less often,1
+105580,349274,1,Four or more times a week,2~3
+105602,252841,1,Two to three times a week,4
+105628,276246,1,Monthly or less often,1
+105677,360131,1,Two to four times a month,2~3
+105713,127209,1,Monthly or less often,2~3
+105719,245795,1,Two to four times a month,8 or more
+105742,26682,1,Monthly or less often,1
+105767,51151,1,Monthly or less often,2~3
+105771,13631,1,Four or more times a week,2~3
+105796,25395,1,Monthly or less often,2~3
+105807,349738,1,Two to three times a week,2~3
+105866,356998,1,Two to four times a month,2~3
+105924,206839,1,Monthly or less often,1
+105974,115105,1,Four or more times a week,2~3
+105993,305607,1,Two to three times a week,2~3
+106000,140210,0,Never,0
+106046,38620,0,Never,0
+106053,140848,1,Two to four times a month,2~3
+106063,99705,0,Never,0
+106067,335083,1,Two to four times a month,1
+106070,227074,1,Monthly or less often,1
+106074,331629,0,Never,0
+106091,369280,0,Never,0
+106109,35485,0,Never,0
+106134,310037,1,Four or more times a week,5~7
+106194,47787,1,Monthly or less often,1
+106204,64451,1,Two to three times a week,1
+106229,5033,0,Never,0
+106243,223347,1,Two to four times a month,2~3
+106246,340919,0,Never,0
+106286,101352,1,Four or more times a week,4
+106344,367102,1,Two to three times a week,2~3
+106364,81497,1,Two to four times a month,2~3
+106417,273870,1,Two to four times a month,1
+106432,166272,1,Monthly or less often,2~3
+106498,164822,1,Monthly or less often,1
+106507,228478,1,Monthly or less often,1
+106528,75374,1,Monthly or less often,1
+106553,122721,1,Two to four times a month,4
+106563,357749,1,Monthly or less often,2~3
+106591,13664,0,Never,0
+106592,77651,1,Two to three times a week,5~7
+106636,352179,1,Four or more times a week,2~3
+106639,115683,1,Two to three times a week,2~3
+106642,131201,1,Monthly or less often,1
+106662,215038,1,Two to three times a week,4
+106717,289645,1,Monthly or less often,2~3
+106753,153742,1,Two to four times a month,1
+106799,310631,1,Four or more times a week,2~3
+106814,339192,1,Four or more times a week,2~3
+106821,345611,0,Never,0
+106839,229914,1,Monthly or less often,4
+106926,37986,0,Never,0
+106943,95232,0,Never,0
+106971,23986,1,Two to four times a month,2~3
+106982,59121,1,Monthly or less often,1
+107002,37622,0,Never,0
+107012,341552,1,Monthly or less often,1
+107030,34827,1,Four or more times a week,4
+107052,120774,1,Four or more times a week,2~3
+107058,35477,1,Monthly or less often,1
+107074,41566,1,Monthly or less often,2~3
+107077,297911,0,Never,0
+107099,17970,0,Missing,0
+107108,228403,0,Never,0
+107119,226480,1,Two to three times a week,2~3
+107133,157362,1,Monthly or less often,1
+107151,57919,1,Four or more times a week,1
+107173,210617,1,Monthly or less often,2~3
+107211,94060,0,Never,0
+107241,234914,1,Four or more times a week,4
+107259,368225,1,Monthly or less often,2~3
+107328,68700,1,Monthly or less often,1
+107343,35162,1,Monthly or less often,1
+107379,6676,1,Two to four times a month,2~3
+107434,32359,1,Two to three times a week,4
+107435,255497,0,Never,0
+107436,270165,0,Never,0
+107520,67603,0,Never,0
+107521,89953,0,Never,0
+107537,224121,1,Four or more times a week,1
+107561,114819,0,Never,0
+107571,160929,1,Monthly or less often,1
+107573,108829,0,Never,0
+107586,233973,1,Four or more times a week,2~3
+107610,157057,1,Four or more times a week,2~3
+107620,339622,1,Four or more times a week,2~3
+107682,86678,1,Four or more times a week,2~3
+107763,321760,1,Monthly or less often,2~3
+107791,170142,1,Four or more times a week,1
+107807,320572,0,Never,0
+107831,319285,0,Never,0
+107875,335539,1,Four or more times a week,2~3
+107879,350199,1,Monthly or less often,1
+107910,15230,1,Monthly or less often,2~3
+107924,347203,0,Never,0
+107946,46599,1,Monthly or less often,2~3
+107970,372235,0,Never,0
+108012,345876,1,Two to three times a week,2~3
+108034,324475,0,Never,0
+108046,316976,1,Two to four times a month,2~3
+108061,78634,1,Monthly or less often,1
+108080,18754,0,Never,0
+108135,97980,1,Two to three times a week,1
+108140,79608,1,Monthly or less often,1
+108174,215079,1,Monthly or less often,1
+108211,310359,1,Two to three times a week,2~3
+108245,25403,1,Two to four times a month,2~3
+108248,88195,1,Four or more times a week,1
+108267,267781,1,Four or more times a week,4
+108352,54890,1,Monthly or less often,1
+108364,15115,1,Four or more times a week,1
+108395,91975,1,Monthly or less often,1
+108406,372557,1,Two to four times a month,4
+108420,53470,1,Monthly or less often,1
+108453,247858,0,Never,0
+108476,164368,0,Never,0
+108543,37697,0,Never,0
+108589,242016,1,Monthly or less often,4
+108590,41152,1,Monthly or less often,1
+108611,45948,1,Two to three times a week,2~3
+108625,235028,1,Two to four times a month,4
+108670,87114,0,Never,0
+108730,74112,1,Monthly or less often,1
+108741,19356,1,Four or more times a week,1
+108766,118638,1,Two to four times a month,2~3
+108797,336024,1,Monthly or less often,2~3
+108806,15354,0,Never,0
+108814,50948,0,Missing,0
+108906,294819,0,Never,0
+108918,98996,0,Never,0
+108919,326603,1,Two to four times a month,1
+109004,289892,1,Monthly or less often,1
+109025,301135,1,Two to three times a week,1
+109046,305862,1,Monthly or less often,1
+109152,259028,1,Four or more times a week,1
+109189,156984,1,Monthly or less often,1
+109198,154906,1,Four or more times a week,2~3
+109203,132555,1,Two to four times a month,2~3
+109225,66068,1,Two to four times a month,4
+109259,166918,0,Never,0
+109341,40386,1,Two to four times a month,5~7
+109345,137414,1,Monthly or less often,2~3
+109356,306563,1,Monthly or less often,1
+109451,155655,1,Two to three times a week,4
+109462,54551,1,Two to four times a month,2~3
+109521,223479,1,Four or more times a week,5~7
+109532,161984,1,Monthly or less often,2~3
+109573,7120,0,Missing,0
+109581,201780,1,Monthly or less often,1
+109589,39040,0,Never,0
+109592,216812,1,Monthly or less often,2~3
+109616,5173,1,Monthly or less often,1
+109619,266783,0,Never,0
+109620,314849,0,Missing,0
+109623,126029,1,Two to four times a month,1
+109632,280297,1,Monthly or less often,1
+109652,367458,1,Two to three times a week,4
+109692,241141,0,Never,0
+109701,365692,1,Two to four times a month,2~3
+109705,347302,0,Never,0
+109709,257063,1,Two to four times a month,2~3
+109721,303644,1,Two to three times a week,2~3
+109733,360149,1,Four or more times a week,2~3
+109748,306233,0,Never,0
+109777,30205,0,Never,0
+109778,148577,1,Monthly or less often,1
+109787,81166,1,Two to four times a month,1
+109789,214601,1,Four or more times a week,5~7
+109807,242156,1,Two to three times a week,2~3
+109835,257121,1,Monthly or less often,4
+109852,4838,0,Never,0
+109889,31443,1,Four or more times a week,2~3
+109960,112300,1,Monthly or less often,2~3
+109961,159095,1,Two to three times a week,2~3
+109965,150128,1,Two to three times a week,2~3
+109967,202382,1,Two to four times a month,0
+109980,161935,1,Monthly or less often,2~3
+110003,372938,1,Monthly or less often,1
+110021,111252,1,Four or more times a week,2~3
+110054,289280,1,Four or more times a week,2~3
+110061,38448,1,Monthly or less often,1
+110071,130690,1,Two to four times a month,2~3
+110104,361568,1,Two to four times a month,1
+110133,221648,0,Never,0
+110134,318915,1,Monthly or less often,1
+110194,237990,1,Two to four times a month,1
+110196,113456,1,Two to three times a week,4
+110211,257527,1,Monthly or less often,1
+110217,104208,1,Two to three times a week,2~3
+110228,336867,0,Missing,0
+110242,359943,1,Monthly or less often,4
+110253,145441,1,Monthly or less often,2~3
+110258,333849,0,Never,0
+110282,276519,0,Never,0
+110356,94623,1,Two to four times a month,1
+110384,336032,0,Never,0
+110432,87007,1,Two to four times a month,2~3
+110489,5793,1,Four or more times a week,5~7
+110564,101568,1,Monthly or less often,1
+110566,26336,0,Never,0
+110570,252007,0,Never,0
+110574,253781,0,Never,0
+110591,216796,1,Monthly or less often,2~3
+110644,323402,1,Two to three times a week,2~3
+110716,130294,1,Four or more times a week,2~3
+110746,146431,0,Never,0
+110817,2980,1,Monthly or less often,1
+110821,30601,1,Two to three times a week,4
+110832,231977,1,Monthly or less often,2~3
+110834,364281,1,Two to three times a week,2~3
+110866,3905,1,Monthly or less often,2~3
+110891,358168,1,Monthly or less often,1
+110898,241331,1,Two to four times a month,2~3
+110914,200055,0,Never,0
+110920,61267,0,Missing,0
+110958,268219,1,Four or more times a week,5~7
+110987,167387,0,Never,0
+111130,256834,1,Two to three times a week,2~3
+111188,274415,1,Four or more times a week,2~3
+111193,37192,1,Two to three times a week,5~7
+111198,25650,1,Two to four times a month,1
+111203,202598,1,Four or more times a week,2~3
+111216,337873,0,Never,0
+111221,4390,0,Never,0
+111226,280149,1,Two to three times a week,1
+111243,30437,0,Never,0
+111261,7518,1,Two to three times a week,2~3
+111300,54353,1,Two to three times a week,1
+111317,234575,0,Never,0
+111318,320432,1,Monthly or less often,2~3
+111325,268540,0,Never,0
+111355,26153,1,Two to three times a week,4
+111360,297572,1,Two to four times a month,2~3
+111426,9761,1,Monthly or less often,1
+111448,205740,1,Two to three times a week,2~3
+111454,13128,1,Four or more times a week,5~7
+111460,211086,0,Never,0
+111466,82305,1,Two to three times a week,2~3
+111487,100800,1,Monthly or less often,2~3
+111505,310953,1,Monthly or less often,2~3
+111610,312629,1,Two to three times a week,1
+111617,345769,0,Never,0
+111681,262378,1,Two to four times a month,2~3
+111700,218495,1,Two to three times a week,5~7
+111733,107466,0,Missing,0
+111743,341438,0,Never,0
+111744,74070,1,Monthly or less often,1
+111781,150441,1,Monthly or less often,1
+111797,244483,0,Never,0
+111833,103457,1,Two to four times a month,4
+111835,154773,0,Never,0
+111859,105379,0,Never,0
+111891,73817,0,Never,0
+111942,340711,1,Four or more times a week,2~3
+112041,132175,1,Two to three times a week,2~3
+112052,341594,1,Two to four times a month,1
+112053,337055,1,Monthly or less often,1
+112073,51847,1,Two to three times a week,5~7
+112084,226894,1,Monthly or less often,5~7
+112146,16576,1,Monthly or less often,1
+112158,213405,1,Monthly or less often,1
+112203,240069,0,Never,0
+112214,280248,1,Monthly or less often,1
+112221,336040,1,Monthly or less often,4
+112235,57695,1,Two to three times a week,2~3
+112258,67876,1,Four or more times a week,2~3
+112261,348722,1,Four or more times a week,2~3
+112285,116616,1,Two to four times a month,2~3
+112289,111278,0,Never,0
+112326,225649,0,Never,0
+112366,231704,1,Monthly or less often,0
+112414,367979,1,Four or more times a week,2~3
+112443,331132,1,Four or more times a week,5~7
+112506,14118,1,Two to three times a week,1
+112522,304816,1,Two to four times a month,4
+112535,295733,0,Never,0
+112565,42200,1,Four or more times a week,2~3
+112572,211474,1,Monthly or less often,1
+112575,106849,1,Two to four times a month,2~3
+112725,156588,1,Four or more times a week,2~3
+112801,2139,1,Monthly or less often,1
+112802,54460,1,Monthly or less often,2~3
+112851,29793,1,Monthly or less often,1
+112861,349761,0,Never,0
+112863,208694,1,Two to four times a month,1
+112893,5066,1,Two to four times a month,2~3
+112901,27326,1,Four or more times a week,2~3
+112913,298455,1,Two to four times a month,2~3
+112944,284042,1,Four or more times a week,2~3
+112956,66316,1,Two to three times a week,4
+113041,45393,1,Two to four times a month,2~3
+113103,117754,1,Four or more times a week,2~3
+113176,88187,1,Monthly or less often,2~3
+113204,220863,1,Four or more times a week,8 or more
+113235,102418,1,Four or more times a week,2~3
+113250,288332,1,Four or more times a week,2~3
+113311,316257,1,Monthly or less often,5~7
+113324,287243,1,Two to four times a month,5~7
+113350,278457,1,Two to four times a month,1
+113502,73874,0,Never,0
+113538,30379,1,Four or more times a week,2~3
+113539,279323,0,Never,0
+113547,267336,1,Two to three times a week,1
+113554,272294,0,Never,0
+113567,237594,1,Four or more times a week,5~7
+113581,256065,1,Two to three times a week,4
+113583,318154,1,Monthly or less often,1
+113598,337162,0,Missing,0
+113623,74922,1,Monthly or less often,1
+113727,219592,1,Two to three times a week,5~7
+113730,236679,1,Two to three times a week,5~7
+113762,268714,0,Never,0
+113774,100115,1,Monthly or less often,1
+113791,217224,1,Two to three times a week,2~3
+113803,311936,1,Four or more times a week,5~7
+113811,247593,1,Four or more times a week,2~3
+113814,147132,1,Two to four times a month,2~3
+113820,115980,1,Two to four times a month,2~3
+113856,123984,1,Monthly or less often,1
+113859,280222,1,Two to four times a month,8 or more
+113870,271692,0,Never,0
+113894,283028,1,Monthly or less often,2~3
+113918,38422,1,Four or more times a week,2~3
+113928,277228,1,Two to four times a month,2~3
+113932,353946,1,Two to three times a week,1
+113952,147280,0,Never,0
+113986,255380,1,Two to four times a month,2~3
+114012,233676,1,Four or more times a week,5~7
+114057,251439,1,Monthly or less often,2~3
+114068,96719,1,Monthly or less often,1
+114082,358267,1,Two to four times a month,2~3
+114103,6981,1,Two to four times a month,2~3
+114122,19877,0,Never,0
+114127,238618,1,Monthly or less often,2~3
+114181,239228,1,Two to three times a week,2~3
+114182,79640,1,Monthly or less often,1
+114192,163311,0,Never,0
+114238,322214,1,Four or more times a week,4
+114248,121905,0,Never,0
+114258,104323,1,Four or more times a week,2~3
+114278,228304,1,Four or more times a week,5~7
+114287,236489,1,Two to three times a week,2~3
+114311,12260,1,Two to four times a month,1
+114350,256768,1,Two to three times a week,1
+114378,16642,1,Two to four times a month,1
+114425,230128,1,Two to four times a month,1
+114498,297648,0,Never,0
+114499,272864,0,Never,0
+114508,39446,1,Two to four times a month,1
+114531,348284,1,Monthly or less often,0
+114541,135848,1,Four or more times a week,5~7
+114616,230706,0,Never,0
+114683,87015,1,Two to three times a week,1
+114701,275024,0,Never,0
+114742,219832,1,Monthly or less often,1
+114746,115808,1,Monthly or less often,1
+114791,365486,0,Never,0
+114798,90589,1,Four or more times a week,5~7
+114826,128991,1,Four or more times a week,2~3
+114828,49866,1,Two to four times a month,2~3
+114869,284133,1,Two to three times a week,2~3
+114871,364059,1,Two to three times a week,2~3
+114930,297176,1,Two to three times a week,4
+114934,306068,0,Never,0
+114936,145029,1,Four or more times a week,4
+114955,102285,1,Four or more times a week,4
+115006,141960,0,Never,0
+115020,44263,1,Two to three times a week,2~3
+115110,320820,1,Two to three times a week,4
+115130,293050,1,Monthly or less often,2~3
+115172,251843,1,Two to three times a week,2~3
+115174,138156,1,Monthly or less often,1
+115187,333898,1,Four or more times a week,8 or more
+115221,30973,0,Never,0
+115224,15438,1,Two to four times a month,1
+115238,153460,0,Missing,0
+115279,327239,0,Never,0
+115285,349779,0,Never,0
+115345,126250,0,Never,0
+115376,166579,1,Two to three times a week,1
+115422,35287,1,Four or more times a week,2~3
+115464,274027,1,Two to four times a month,2~3
+115470,330308,1,Two to three times a week,2~3
+115491,358002,1,Two to four times a month,1
+115520,154435,1,Two to four times a month,4
+115524,162396,1,Four or more times a week,5~7
+115556,369579,1,Two to four times a month,2~3
+115571,60624,0,Never,0
+115592,241703,1,Two to four times a month,1
+115613,278564,0,Never,0
+115641,86140,1,Four or more times a week,2~3
+115684,119677,1,Monthly or less often,1
+115695,256909,1,Four or more times a week,5~7
+115768,214056,0,Never,0
+115796,254557,0,Never,0
+115809,343269,1,Monthly or less often,2~3
+115831,31518,1,Two to four times a month,2~3
+115869,90597,0,Never,0
+115907,27649,1,Two to four times a month,2~3
+115914,157925,0,Never,0
+115929,4325,1,Monthly or less often,1
+115943,43620,1,Two to three times a week,5~7
+115954,34389,0,Never,0
+115962,93880,1,Two to four times a month,2~3
+116009,140574,1,Two to three times a week,2~3
+116137,105361,1,Four or more times a week,4
+116176,2345,1,Four or more times a week,2~3
+116220,289462,1,Monthly or less often,1
+116221,138925,1,Four or more times a week,1
+116279,52225,0,Never,0
+116289,141036,1,Two to four times a month,1
+116308,142745,1,Monthly or less often,1
+116317,361303,1,Monthly or less often,4
+116349,29546,1,Monthly or less often,1
+116455,244285,1,Two to three times a week,2~3
+116462,206672,1,Two to four times a month,2~3
+116477,332288,0,Never,0
+116536,233510,1,Four or more times a week,4
+116576,160978,1,Monthly or less often,0
+116597,312926,0,Never,0
+116601,62950,0,Never,0
+116602,118620,1,Monthly or less often,1
+116660,218396,1,Four or more times a week,4
+116683,228064,1,Four or more times a week,2~3
+116705,293795,1,Monthly or less often,1
+116747,165944,1,Two to three times a week,2~3
+116758,200162,1,Two to three times a week,2~3
+116798,150094,1,Four or more times a week,5~7
+116810,89433,1,Two to four times a month,2~3
+116818,303123,1,Monthly or less often,2~3
+116827,84319,0,Never,0
+116837,121129,1,Monthly or less often,1
+116860,257774,1,Four or more times a week,1
+116884,265298,1,Monthly or less often,2~3
+116899,353078,1,Monthly or less often,2~3
+116992,25817,0,Never,0
+117009,214825,1,Two to three times a week,1
+117025,156364,1,Monthly or less often,2~3
+117055,220038,1,Four or more times a week,2~3
+117111,229153,1,Monthly or less often,2~3
+117229,96727,0,Never,0
+117233,272948,1,Monthly or less often,2~3
+117289,359836,1,Four or more times a week,5~7
+117327,49726,0,Never,0
+117373,344556,1,Monthly or less often,2~3
+117386,366138,1,Two to three times a week,5~7
+117418,58693,1,Two to four times a month,1
+117450,149161,0,Never,0
+117468,68957,1,Four or more times a week,2~3
+117492,114835,1,Monthly or less often,1
+117502,25494,0,Never,0
+117534,109256,0,Never,0
+117583,272369,1,Two to four times a month,2~3
+117601,11544,1,Monthly or less often,2~3
+117612,148254,1,Two to four times a month,1
+117618,132613,1,Two to three times a week,2~3
+117627,30221,1,Four or more times a week,1
+117630,260398,1,Four or more times a week,1
+117632,58289,0,Never,0
+117669,372052,0,Never,0
+117708,97923,1,Four or more times a week,4
+117777,43513,1,Four or more times a week,2~3
+117799,107243,0,Never,0
+117820,97857,1,Four or more times a week,2~3
+117939,60533,1,Four or more times a week,2~3
+117950,76695,1,Two to three times a week,2~3
+117966,158808,1,Four or more times a week,2~3
+117994,265017,1,Two to four times a month,1
+118035,228924,0,Never,0
+118078,203851,1,Four or more times a week,5~7
+118087,353383,1,Monthly or less often,1
+118102,370056,0,Never,0
+118158,122135,1,Two to four times a month,5~7
+118181,201038,0,Never,0
+118193,360479,1,Monthly or less often,2~3
+118195,366690,1,Two to four times a month,2~3
+118221,215889,1,Monthly or less often,2~3
+118234,205963,1,Four or more times a week,2~3
+118237,282038,1,Monthly or less often,1
+118248,63958,1,Monthly or less often,1
+118283,351379,1,Two to three times a week,4
+118297,24851,1,Monthly or less often,1
+118298,29710,1,Four or more times a week,2~3
+118323,69021,1,Two to three times a week,2~3
+118384,204644,1,Two to four times a month,1
+118425,214981,1,Two to four times a month,5~7
+118461,74013,1,Monthly or less often,1
+118464,362491,1,Four or more times a week,2~3
+118552,167858,1,Monthly or less often,2~3
+118553,20990,1,Two to four times a month,2~3
+118560,2097,1,Four or more times a week,1
+118572,303529,0,Never,0
+118579,201152,1,Four or more times a week,1
+118586,211862,0,Never,0
+118602,12880,1,Monthly or less often,1
+118609,346981,1,Monthly or less often,2~3
+118649,218750,1,Monthly or less often,1
+118658,67124,1,Two to four times a month,2~3
+118664,153494,1,Monthly or less often,1
+118669,61366,1,Four or more times a week,1
+118672,90498,0,Missing,0
+118681,76992,1,Four or more times a week,4
+118682,207241,0,Missing,0
+118696,263624,0,Never,0
+118713,107698,0,Never,0
+118719,23937,1,Monthly or less often,2~3
+118742,131391,1,Two to four times a month,1
+118919,172692,1,Monthly or less often,1
+118951,309054,0,Never,0
+118966,276782,0,Never,0
+118976,272724,1,Monthly or less often,2~3
+118990,91900,1,Two to three times a week,2~3
+119029,87254,1,Two to four times a month,2~3
+119037,356410,1,Four or more times a week,4
+119072,227215,1,Two to four times a month,2~3
+119084,345785,0,Never,0
+119103,273060,0,Never,0
+119129,52860,1,Four or more times a week,2~3
+119166,357830,0,Never,0
+119184,109173,1,Monthly or less often,2~3
+119212,88161,0,Never,0
+119236,166223,1,Two to four times a month,2~3
+119278,204081,1,Monthly or less often,1
+119291,168914,1,Two to four times a month,2~3
+119324,234351,1,Monthly or less often,1
+119326,3202,1,Four or more times a week,5~7
+119356,274837,1,Monthly or less often,1
+119358,59782,1,Monthly or less often,0
+119397,69930,1,Two to three times a week,4
+119442,266601,0,Never,0
+119474,61796,1,Two to four times a month,2~3
+119496,23119,1,Two to three times a week,4
+119534,221846,1,Four or more times a week,2~3
+119542,235143,1,Monthly or less often,1
+119584,201533,1,Monthly or less often,1
+119597,130468,0,Never,0
+119627,334474,1,Four or more times a week,4
+119684,74344,1,Monthly or less often,8 or more
+119743,11155,1,Monthly or less often,1
+119777,49494,1,Two to three times a week,1
+119813,123950,1,Four or more times a week,2~3
+119818,136598,0,Never,0
+119839,115527,1,Two to four times a month,4
+119843,127050,1,Monthly or less often,2~3
+119885,322032,1,Four or more times a week,1
+119911,139980,1,Monthly or less often,1
+119924,10181,1,Four or more times a week,2~3
+119954,25~7,1,Four or more times a week,2~3
+119962,313924,0,Never,0
+119982,778,0,Never,0
+120011,91090,1,Monthly or less often,2~3
+120056,363267,1,Monthly or less often,1
+120070,160051,1,Two to four times a month,4
+120112,130609,1,Two to three times a week,2~3
+120121,244517,1,Two to three times a week,2~3
+120138,347997,1,Two to three times a week,5~7
+120180,247668,1,Two to four times a month,2~3
+120184,234146,0,Never,0
+120188,133611,1,Two to three times a week,1
+120252,88013,0,Never,0
+120270,304725,1,Four or more times a week,2~3
+120278,222489,1,Monthly or less often,4
+120289,55897,1,Two to four times a month,2~3
+120301,221952,0,Never,0
+120316,119644,1,Two to four times a month,2~3
+120340,338095,1,Monthly or less often,1
+120352,73403,1,Two to four times a month,2~3
+120393,5652,1,Two to four times a month,2~3
+120410,111880,1,Monthly or less often,1
+120428,266833,1,Monthly or less often,2~3
+120491,64691,1,Two to four times a month,2~3
+120570,89482,0,Never,0
+120573,64790,1,Two to three times a week,2~3
+120614,251371,1,Monthly or less often,2~3
+120653,134734,1,Monthly or less often,2~3
+120662,254052,1,Two to three times a week,2~3
+120701,67942,1,Four or more times a week,1
+120702,347179,1,Two to three times a week,5~7
+120707,229211,1,Monthly or less often,0
+120708,138289,1,Four or more times a week,4
+120730,98178,1,Four or more times a week,2~3
+120783,236307,1,Four or more times a week,2~3
+120790,126375,1,Two to four times a month,1
+120809,232637,0,Never,0
+120849,71753,1,Four or more times a week,8 or more
+120879,217844,0,Never,0
+120907,12526,1,Two to three times a week,4
+120952,307710,0,Never,0
+120954,55731,1,Four or more times a week,1
+120969,168724,0,Never,0
+120981,122275,1,Monthly or less often,1
+121003,2477,1,Two to three times a week,2~3
+121004,36111,0,Never,0
+121014,326389,1,Four or more times a week,2~3
+121016,270322,1,Monthly or less often,1
+121058,232140,1,Two to four times a month,2~3
+121073,107722,1,Four or more times a week,2~3
+121096,11114,0,Never,0
+121099,167700,0,Never,0
+121100,264358,1,Four or more times a week,4
+121107,290213,1,Four or more times a week,2~3
+121169,102996,1,Two to four times a month,2~3
+121181,7401,1,Two to four times a month,2~3
+121261,217794,1,Four or more times a week,2~3
+121306,156430,0,Never,0
+121333,31047,1,Two to three times a week,1
+121337,85365,1,Four or more times a week,1
+121370,367821,1,Four or more times a week,2~3
+121383,208843,0,Never,0
+121431,357913,1,Two to three times a week,2~3
+121439,103747,1,Four or more times a week,1
+121469,117663,0,Never,0
+121580,287482,1,Two to three times a week,1
+121598,210625,0,Never,0
+121663,365098,1,Two to four times a month,2~3
+121666,372821,1,Monthly or less often,2~3
+121680,266247,1,Two to three times a week,2~3
+121686,273151,0,Never,0
+121701,216952,0,Never,0
+121702,171470,1,Four or more times a week,1
+121786,135988,1,Four or more times a week,2~3
+121794,103267,1,Monthly or less often,1
+121823,279745,0,Never,0
+121825,20859,1,Four or more times a week,8 or more
+121852,146076,0,Never,0
+121863,275545,1,Two to three times a week,1
+121865,307819,1,Four or more times a week,1
+121893,122564,0,Never,0
+121895,129759,1,Two to four times a month,1
+121907,232546,0,Never,0
+121935,123711,1,Monthly or less often,2~3
+121956,269555,1,Four or more times a week,5~7
+121966,251082,1,Two to four times a month,1
+121999,10835,1,Monthly or less often,1
+122021,305490,1,Four or more times a week,2~3
+122025,53454,1,Two to four times a month,1
+122117,15305,1,Four or more times a week,2~3
+122135,92619,1,Four or more times a week,4
+122208,122655,1,Four or more times a week,1
+122215,48090,0,Never,0
+122225,27284,0,Never,0
+122226,172353,1,Four or more times a week,4
+122262,36616,0,Never,0
+122348,67199,1,Four or more times a week,2~3
+122353,361741,1,Four or more times a week,2~3
+122364,105593,1,Monthly or less often,1
+122376,163667,1,Two to four times a month,2~3
+122390,83584,1,Two to four times a month,2~3
+122401,53207,1,Two to four times a month,1
+122489,328773,1,Monthly or less often,0
+122503,232397,1,Two to four times a month,1
+122559,122531,1,Monthly or less often,0
+122574,170704,1,Four or more times a week,1
+122590,41186,1,Two to four times a month,1
+122592,140509,1,Two to four times a month,2~3
+122709,60038,1,Four or more times a week,1
+122749,354514,1,Four or more times a week,2~3
+122786,109306,0,Never,0
+122794,272062,1,Two to four times a month,2~3
+122849,150359,1,Two to three times a week,4
+122866,10884,1,Two to three times a week,8 or more
+122878,254094,1,Four or more times a week,5~7
+123053,1875,1,Monthly or less often,1
+123066,53702,1,Four or more times a week,2~3
+123067,242040,1,Monthly or less often,1
+123072,52779,0,Never,0
+123123,47688,1,Monthly or less often,5~7
+123131,321356,1,Monthly or less often,2~3
+123145,26658,1,Monthly or less often,2~3
+123247,96297,1,Four or more times a week,1
+123324,16410,1,Two to three times a week,2~3
+123326,153692,1,Four or more times a week,2~3
+123361,269803,0,Never,0
+123388,216309,1,Two to four times a month,2~3
+123444,65391,1,Two to four times a month,2~3
+123494,366187,1,Four or more times a week,2~3
+123502,338855,1,Two to four times a month,2~3
+123515,71936,1,Monthly or less often,1
+123521,71696,1,Two to four times a month,4
+123592,265884,0,Never,0
+123609,226100,1,Two to four times a month,5~7
+123618,113720,0,Never,0
+123629,92502,1,Two to three times a week,2~3
+123634,279166,0,Never,0
+123643,320796,1,Four or more times a week,4
+123661,20685,1,Two to three times a week,2~3
+123711,341727,0,Never,0
+123793,319319,1,Monthly or less often,2~3
+123810,143891,1,Two to three times a week,4
+123825,137653,1,Four or more times a week,5~7
+123843,105502,1,Two to four times a month,2~3
+123852,241430,1,Monthly or less often,1
+123891,46201,1,Four or more times a week,2~3
+123900,275743,0,Never,0
+123936,295063,1,Two to three times a week,2~3
+123944,17665,1,Monthly or less often,1
+123993,36103,1,Two to four times a month,2~3
+124140,116681,0,Never,0
+124146,243428,1,Monthly or less often,2~3
+124174,282723,1,Four or more times a week,8 or more
+124190,83154,1,Two to three times a week,2~3
+124261,137869,0,Never,0
+124323,105759,0,Never,0
+124327,333237,1,Monthly or less often,2~3
+124378,33639,0,Never,0
+124379,141705,1,Monthly or less often,1
+124436,17897,0,Never,0
+124457,208215,1,Four or more times a week,2~3
+124486,33225,1,Two to four times a month,4
+124487,353623,1,Four or more times a week,2~3
+124503,303222,1,Four or more times a week,5~7
+124505,87197,1,Monthly or less often,1
+124524,111013,1,Two to four times a month,1
+124533,156992,0,Never,0
+124571,239038,1,Monthly or less often,2~3
+124606,212514,1,Four or more times a week,2~3
+124619,343863,1,Four or more times a week,8 or more
+124628,372482,1,Monthly or less often,2~3
+124630,277822,0,Never,0
+124635,349662,0,Never,0
+124696,154294,1,Monthly or less often,2~3
+124752,360313,1,Four or more times a week,8 or more
+124765,290460,1,Two to three times a week,1
+124863,24299,1,Monthly or less often,1
+124864,138081,1,Two to three times a week,1
+124870,221127,1,Two to three times a week,1
+124931,3798,0,Never,0
+124956,201798,0,Never,0
+124978,101071,1,Two to four times a month,4
+124998,60178,1,Two to four times a month,2~3
+125039,267476,1,Two to four times a month,1
+125063,211243,0,Never,0
+125070,288480,1,Monthly or less often,0
+125102,311787,0,Never,0
+125136,241471,1,Monthly or less often,1
+125176,279315,0,Never,0
+125244,87783,1,Monthly or less often,1
+125286,353474,1,Two to four times a month,5~7
+125292,24018,1,Two to four times a month,1
+125297,346569,1,Monthly or less often,1
+125353,153569,1,Monthly or less often,0
+125378,110759,1,Four or more times a week,4
+125384,139972,0,Never,0
+125408,91025,1,Monthly or less often,1
+125422,346288,1,Two to four times a month,2~3
+125450,151340,1,Two to three times a week,2~3
+125451,266940,1,Monthly or less often,5~7
+125504,243568,1,Two to four times a month,2~3
+125533,200568,1,Monthly or less often,2~3
+125534,306720,1,Monthly or less often,1
+125562,259093,1,Monthly or less often,1
+125586,81513,0,Never,0
+125609,54148,1,Monthly or less often,1
+125649,276717,1,Two to three times a week,1
+125655,303974,1,Two to three times a week,5~7
+125659,247155,1,Four or more times a week,1
+125663,1461,1,Two to three times a week,5~7
+125680,109,1,Four or more times a week,2~3
+125704,290999,1,Two to four times a month,2~3
+125727,86264,1,Monthly or less often,1
+125748,292763,1,Two to four times a month,1
+125794,4721,1,Four or more times a week,2~3
+125797,1560,1,Four or more times a week,2~3
+125818,106146,1,Two to four times a month,2~3
+125831,356477,1,Monthly or less often,2~3
+125842,258897,1,Four or more times a week,2~3
+125848,130559,0,Never,0
+125882,344440,1,Two to four times a month,1
+125886,293506,1,Monthly or less often,1
+125950,334367,1,Two to three times a week,2~3
+125998,328526,0,Missing,0
+126017,273862,0,Never,0
+126055,121418,1,Two to three times a week,4
+126114,304089,1,Monthly or less often,1
+126135,257857,1,Two to three times a week,2~3
+126165,315473,0,Never,0
+126244,153320,1,Four or more times a week,1
+126277,267682,1,Four or more times a week,5~7
+126303,201913,1,Two to three times a week,5~7
+126325,126953,1,Four or more times a week,1
+126395,219964,1,Four or more times a week,8 or more
+126446,138552,1,Monthly or less often,1
+126453,97840,1,Four or more times a week,2~3
+126482,80960,1,Two to three times a week,2~3
+126514,136929,1,Two to three times a week,1
+126520,102913,1,Two to four times a month,1
+126522,287532,1,Two to four times a month,1
+126558,6668,1,Four or more times a week,2~3
+126565,207217,1,Monthly or less often,2~3
+126576,139014,0,Never,0
+126606,218503,1,Two to three times a week,4
+126625,93666,0,Never,0
+126638,274605,1,Monthly or less often,2~3
+126640,242230,0,Never,0
+126657,359570,0,Never,0
+126686,327734,1,Monthly or less often,4
+126698,76190,1,Four or more times a week,1
+126703,147033,0,Never,0
+126758,247601,1,Two to three times a week,4
+126766,324756,0,Never,0
+126772,360941,1,Four or more times a week,4
+126787,81927,0,Never,0
+126792,11775,0,Never,0
+126800,247395,1,Monthly or less often,1
+126823,72272,1,Monthly or less often,2~3
+126836,41061,1,Monthly or less often,1
+126848,232785,1,Two to four times a month,1
+126917,26054,1,Monthly or less often,1
+126955,114595,1,Four or more times a week,4
+126967,17335,1,Monthly or less often,2~3
+126977,84673,1,Monthly or less often,1
+126999,46896,1,Two to four times a month,5~7
+127125,270439,1,Monthly or less often,1
+127187,123786,1,Four or more times a week,4
+127219,17467,0,Never,0
+127242,324970,1,Two to three times a week,2~3
+127298,65508,1,Two to three times a week,2~3
+127302,111542,0,Never,0
+127308,267385,1,Monthly or less often,1
+127327,344515,1,Four or more times a week,2~3
+127331,170456,1,Monthly or less often,2~3
+127347,145573,1,Four or more times a week,1
+127358,308858,1,Four or more times a week,0
+127370,112078,0,Never,0
+127390,88542,1,Two to four times a month,2~3
+127399,84442,0,Never,0
+127400,41939,0,Never,0
+127432,205047,0,Never,0
+127479,40790,0,Never,0
+127485,348466,0,Never,0
+127511,275032,0,Never,0
+127619,125815,1,Four or more times a week,5~7
+127676,236885,1,Monthly or less often,1
+127694,252759,0,Never,0
+127703,225052,0,Never,0
+127713,324194,1,Monthly or less often,2~3
+127838,272609,1,Two to four times a month,4
+127890,142935,0,Never,0
+127923,80721,0,Never,0
+127941,221416,0,Never,0
+127992,113753,0,Never,0
+128008,347898,1,Four or more times a week,5~7
+128072,150474,1,Two to three times a week,5~7
+128097,299941,1,Two to three times a week,1
+128156,22046,0,Never,0
+128212,144881,0,Never,0
+128236,18176,1,Two to three times a week,2~3
+128257,254672,1,Monthly or less often,2~3
+128266,210336,1,Monthly or less often,2~3
+128325,158220,1,Two to four times a month,2~3
+128377,21899,1,Monthly or less often,1
+128390,341842,1,Four or more times a week,2~3
+128397,331116,1,Monthly or less often,1
+128443,70029,0,Never,0
+128456,294934,1,Two to three times a week,2~3
+128528,241208,1,Two to four times a month,4
+128534,145300,1,Four or more times a week,2~3
+128544,272419,1,Two to four times a month,2~3
+128599,249490,1,Two to three times a week,2~3
+128651,98822,1,Two to four times a month,1
+128669,46904,1,Four or more times a week,1
+128682,74435,1,Monthly or less often,1
+128800,254979,1,Two to three times a week,1
+128802,262030,0,Never,0
+128880,92148,1,Four or more times a week,2~3
+128899,138610,1,Monthly or less often,2~3
+128904,307843,1,Four or more times a week,5~7
+128930,361691,1,Two to four times a month,1
+128940,138537,1,Monthly or less often,1
+128944,4671,1,Two to four times a month,5~7
+128952,90175,1,Monthly or less often,1
+128957,359430,0,Never,0
+128995,124867,1,Two to four times a month,2~3
+129035,138602,1,Four or more times a week,1
+129066,200212,1,Two to four times a month,1
+129092,66431,0,Never,0
+129123,83592,0,Never,0
+129155,35451,0,Never,0
+129158,325340,0,Never,0
+129171,327189,1,Monthly or less often,1
+129175,372607,1,Two to four times a month,2~3
+129177,319814,1,Monthly or less often,2~3
+129189,4093,1,Two to four times a month,4
+129230,344598,1,Monthly or less often,2~3
+129285,70094,0,Never,0
+129451,334284,1,Four or more times a week,1
+129495,260562,1,Monthly or less often,1
+129511,37036,0,Never,0
+129534,79848,1,Four or more times a week,5~7
+129552,232769,1,Monthly or less often,2~3
+129553,91686,1,Monthly or less often,1
+129627,151316,0,Never,0
+129670,295436,1,Monthly or less often,1
+129679,53298,1,Two to four times a month,2~3
+129685,102665,1,Two to three times a week,1
+129695,61416,0,Never,0
+129715,242891,0,Never,0
+129827,327205,0,Never,0
+129842,126607,1,Four or more times a week,8 or more
+129892,79228,1,Four or more times a week,4
+129993,71381,1,Monthly or less often,1
+130008,215087,1,Monthly or less often,2~3
+130033,132340,1,Monthly or less often,2~3
+130081,336453,1,Four or more times a week,2~3
+130103,148700,1,Four or more times a week,4
+130133,101402,0,Never,0
+130145,309047,0,Never,0
+130155,340471,1,Two to three times a week,2~3
+130162,113969,1,Monthly or less often,1
+130210,305060,0,Never,0
+130237,268375,0,Never,0
+130249,268573,1,Monthly or less often,1
+130315,121251,1,Two to four times a month,1
+130327,200444,1,Four or more times a week,4
+130330,316448,1,Four or more times a week,2~3
+130416,83691,1,Monthly or less often,1
+130467,161034,0,Never,0
+130491,93237,0,Missing,0
+130499,344226,1,Monthly or less often,1
+130593,235499,1,Monthly or less often,2~3
+130624,13458,1,Monthly or less often,1
+130630,235507,1,Monthly or less often,2~3
+130642,244319,1,Two to three times a week,2~3
+130655,35998,1,Four or more times a week,5~7
+130697,11643,0,Never,0
+130706,109793,1,Monthly or less often,1
+130720,237537,1,Two to four times a month,1
+130739,271536,1,Four or more times a week,2~3
+130753,19885,1,Two to four times a month,2~3
+130765,353151,0,Never,0
+130767,87429,1,Two to four times a month,2~3
+130813,74146,1,Four or more times a week,5~7
+130819,297929,1,Monthly or less often,1
+130828,367771,1,Two to four times a month,1
+130866,71597,0,Never,0
+130918,280289,1,Monthly or less often,1
+130942,79384,1,Monthly or less often,1
+130975,66704,1,Four or more times a week,2~3
+131005,162339,1,Two to four times a month,2~3
+131072,54932,0,Never,0
+131156,8433,1,Four or more times a week,2~3
+131174,134510,1,Four or more times a week,2~3
+131232,82867,0,Never,0
+131237,245571,1,Four or more times a week,8 or more
+131306,48025,1,Monthly or less often,1
+131332,157503,1,Two to four times a month,1
+131336,251124,0,Never,0
+131352,253047,0,Never,0
+131393,236893,1,Four or more times a week,2~3
+131397,244566,1,Monthly or less often,1
+131423,170837,0,Never,0
+131464,129239,1,Four or more times a week,5~7
+131476,117747,1,Two to three times a week,2~3
+131486,172650,0,Never,0
+131512,336081,0,Never,0
+131542,98871,0,Never,0
+131549,349092,1,Monthly or less often,1
+131580,69484,1,Two to four times a month,2~3
+131582,93617,1,Monthly or less often,1
+131608,347633,1,Four or more times a week,2~3
+131611,63388,0,Never,0
+131657,31328,1,Two to three times a week,5~7
+131691,339853,1,Two to three times a week,2~3
+131742,66761,1,Two to three times a week,2~3
+131772,246587,0,Never,0
+131855,130401,1,Four or more times a week,2~3
+131910,37051,1,Two to three times a week,1
+131947,257592,0,Never,0
+131952,369397,1,Two to four times a month,2~3
+131959,265561,1,Monthly or less often,0
+131962,293316,1,Four or more times a week,2~3
+131963,116467,1,Two to four times a month,2~3
+131975,64238,0,Never,0
+131979,20503,1,Four or more times a week,2~3
+132013,216549,1,Two to four times a month,1
+132036,142950,1,Four or more times a week,2~3
+132043,6288,1,Monthly or less often,2~3
+132047,21949,0,Never,0
+132063,32318,1,Two to three times a week,2~3
+132078,321752,1,Four or more times a week,2~3
+132089,325415,1,Four or more times a week,2~3
+132113,152009,1,Two to four times a month,2~3
+132128,299172,1,Two to three times a week,2~3
+132227,131961,1,Monthly or less often,1
+132271,227041,1,Two to four times a month,8 or more
+132313,22939,1,Monthly or less often,2~3
+132323,354373,0,Never,0
+132354,328419,0,Never,0
+132386,114249,1,Two to four times a month,2~3
+132422,19679,0,Never,0
+132466,6890,1,Four or more times a week,2~3
+132470,81109,1,Four or more times a week,1
+132482,297333,1,Four or more times a week,2~3
+132483,326017,1,Two to three times a week,2~3
+132496,216119,0,Never,0
+132510,329367,0,Never,0
+132513,224576,1,Monthly or less often,1
+132556,336297,0,Never,0
+132562,272336,0,Never,0
+132598,79251,0,Never,0
+132606,64808,1,Monthly or less often,1
+132628,42135,1,Four or more times a week,2~3
+132689,171413,1,Four or more times a week,1
+132823,147462,0,Never,0
+132827,97899,1,Monthly or less often,1
+132867,344804,0,Never,0
+132894,149013,1,Four or more times a week,1
+132899,282426,1,Four or more times a week,5~7
+132914,332130,1,Four or more times a week,4
+132993,331215,0,Never,0
+133076,73916,1,Four or more times a week,2~3
+133088,200386,0,Never,0
+133116,39222,1,Two to four times a month,1
+133144,291856,1,Monthly or less often,1
+133148,329110,0,Never,0
+133186,248112,1,Monthly or less often,1
+133201,69112,1,Monthly or less often,2~3
+133209,372896,0,Never,0
+133224,257980,1,Two to four times a month,2~3
+133231,90241,0,Never,0
+133246,104406,1,Monthly or less often,2~3
+133279,84038,1,Two to four times a month,2~3
+133301,62117,1,Four or more times a week,2~3
+133317,1883,1,Monthly or less often,1
+133319,241018,0,Never,0
+133321,92734,1,Four or more times a week,2~3
+133345,14498,1,Two to three times a week,5~7
+133356,109496,1,Two to three times a week,2~3
+133412,310987,1,Four or more times a week,2~3
+133416,359307,0,Never,0
+133428,2758,1,Two to three times a week,1
+133443,102533,1,Four or more times a week,2~3
+133459,61275,0,Never,0
+133484,298315,0,Never,0
+133505,204669,1,Two to three times a week,4
+133530,337725,1,Monthly or less often,1
+133545,40717,1,Four or more times a week,5~7
+133640,29199,0,Never,0
+133641,249615,1,Monthly or less often,2~3
+133719,62802,1,Four or more times a week,2~3
+133725,351288,1,Monthly or less often,1
+133763,293936,1,Four or more times a week,2~3
+133786,36962,1,Two to three times a week,2~3
+133788,318972,1,Two to four times a month,2~3
+133792,119198,1,Two to three times a week,2~3
+133811,171686,0,Never,0
+133825,327437,1,Two to three times a week,1
+133858,363721,1,Two to four times a month,1
+133874,362624,1,Two to four times a month,4
+133887,277699,1,Monthly or less often,1
+133908,103309,0,Never,0
+133917,295576,1,Two to three times a week,2~3
+133934,29504,1,Two to three times a week,2~3
+133954,353227,1,Monthly or less often,1
+133958,23275,0,Never,0
+134002,9852,0,Never,0
+134005,310250,1,Monthly or less often,2~3
+134009,4457,0,Never,0
+134082,114264,0,Never,0
+134088,106013,1,Four or more times a week,1
+134102,304519,1,Monthly or less often,1
+134210,118711,1,Four or more times a week,5~7
+134244,208892,1,Monthly or less often,0
+134257,63495,1,Four or more times a week,2~3
+134354,164434,0,Never,0
+134371,135681,0,Never,0
+134408,104091,1,Monthly or less often,2~3
+134455,55822,0,Never,0
+134457,79145,1,Two to four times a month,2~3
+134491,95166,1,Four or more times a week,1
+134493,2600,0,Never,0
+134498,115279,1,Four or more times a week,5~7
+134503,106567,1,Monthly or less often,1
+134516,242073,0,Never,0
+134528,90217,1,Two to four times a month,4
+134575,160762,0,Never,0
+200017,,0,Not Applicable,0
+200054,,0,Not Applicable,0
+200056,,0,Not Applicable,0
+200066,,0,Not Applicable,0
+200122,,0,Not Applicable,0
+200129,,0,Not Applicable,0
+200140,,0,Not Applicable,0
+200148,,0,Not Applicable,0
+200168,,0,Not Applicable,0
+200170,,0,Not Applicable,0
+200172,,0,Not Applicable,0
+200188,,0,Not Applicable,0
+200209,,0,Not Applicable,0
+200221,,0,Not Applicable,0
+200226,,0,Not Applicable,0
+200257,,0,Not Applicable,0
+200331,,0,Not Applicable,0
+200365,,0,Not Applicable,0
+200397,,0,Not Applicable,0
+200398,,0,Not Applicable,0
+200485,,0,Not Applicable,0
+200513,,0,Not Applicable,0
+200519,,0,Not Applicable,0
+200527,,0,Not Applicable,0
+200531,,0,Not Applicable,0
+200628,,0,Not Applicable,0
+200656,,0,Not Applicable,0
+200674,,0,Not Applicable,0
+200683,,0,Not Applicable,0
+200697,,0,Not Applicable,0
+200701,,0,Not Applicable,0
+200757,,0,Not Applicable,0
+200774,,0,Not Applicable,0
+200779,,0,Not Applicable,0
+200809,,0,Not Applicable,0
+200824,,0,Not Applicable,0
+200840,,0,Not Applicable,0
+200925,,0,Not Applicable,0
+200931,,0,Not Applicable,0
+200969,,0,Not Applicable,0
+200983,,0,Not Applicable,0
+201009,,0,Not Applicable,0
+201018,,0,Not Applicable,0
+201222,,0,Not Applicable,0
+201275,,0,Not Applicable,0
+201281,,0,Not Applicable,0
+201376,,0,Not Applicable,0
+201395,,0,Not Applicable,0
+201441,,0,Not Applicable,0
+201465,,0,Not Applicable,0
+201466,,0,Not Applicable,0
+201479,,0,Not Applicable,0
+201505,,0,Not Applicable,0
+201519,,0,Not Applicable,0
+201528,,0,Not Applicable,0
+201542,,0,Not Applicable,0
+201570,,0,Not Applicable,0
+201622,,0,Not Applicable,0
+201641,,0,Not Applicable,0
+201647,,0,Not Applicable,0
+201674,,0,Not Applicable,0
+201707,,0,Not Applicable,0
+201709,,0,Not Applicable,0
+201711,,0,Not Applicable,0
+201726,,0,Not Applicable,0
+201763,,0,Not Applicable,0
+201769,,0,Not Applicable,0
+201828,,0,Not Applicable,0
+201880,,0,Not Applicable,0
+201902,,0,Not Applicable,0
+201915,,0,Not Applicable,0
+201937,,0,Not Applicable,0
+201938,,0,Not Applicable,0
+201979,,0,Not Applicable,0
+201980,,0,Not Applicable,0
+202014,,0,Not Applicable,0
+202044,,0,Not Applicable,0
+202096,,0,Not Applicable,0
+202113,,0,Not Applicable,0
+202128,,0,Not Applicable,0
+202165,,0,Not Applicable,0
+202193,,0,Not Applicable,0
+202219,,0,Not Applicable,0
+202255,,0,Not Applicable,0
+202268,,0,Not Applicable,0
+202277,,0,Not Applicable,0
+202312,,0,Not Applicable,0
+202335,,0,Not Applicable,0
+202346,,0,Not Applicable,0
+202360,,0,Not Applicable,0
+202388,,0,Not Applicable,0
+202389,,0,Not Applicable,0
+202407,,0,Not Applicable,0
+202429,,0,Not Applicable,0
+202479,,0,Not Applicable,0
+202526,,0,Not Applicable,0
+202541,,0,Not Applicable,0
+202554,,0,Not Applicable,0
+202610,,0,Not Applicable,0
+202611,,0,Not Applicable,0
+202648,,0,Not Applicable,0
+202649,,0,Not Applicable,0
+202660,,0,Not Applicable,0
+202665,,0,Not Applicable,0
+202669,,0,Not Applicable,0
+202679,,0,Not Applicable,0
+202686,,0,Not Applicable,0
+202715,,0,Not Applicable,0
+202748,,0,Not Applicable,0
+202814,,0,Not Applicable,0
+202822,,0,Not Applicable,0
+202823,,0,Not Applicable,0
+202829,,0,Not Applicable,0
+202838,,0,Not Applicable,0
+202952,,0,Not Applicable,0
+202968,,0,Not Applicable,0
+202976,,0,Not Applicable,0
+203002,,0,Not Applicable,0
+203010,,0,Not Applicable,0
+203087,,0,Not Applicable,0
+203120,,0,Not Applicable,0
+203125,,0,Not Applicable,0
+203149,,0,Not Applicable,0
+203150,,0,Not Applicable,0
+203166,,0,Not Applicable,0
+203197,,0,Not Applicable,0
+203200,,0,Not Applicable,0
+203204,,0,Not Applicable,0
+203226,,0,Not Applicable,0
+203288,,0,Not Applicable,0
+203296,,0,Not Applicable,0
+203312,,0,Not Applicable,0
+203341,,0,Not Applicable,0
+203343,,0,Not Applicable,0
+203359,,0,Not Applicable,0
+203375,,0,Not Applicable,0
+203389,,0,Not Applicable,0
+203418,,0,Not Applicable,0
+203445,,0,Not Applicable,0
+203449,,0,Not Applicable,0
+203459,,0,Not Applicable,0
+203462,,0,Not Applicable,0
+203500,,0,Not Applicable,0
+203503,,0,Not Applicable,0
+203506,,0,Not Applicable,0
+203536,,0,Not Applicable,0
+203581,,0,Not Applicable,0
+203607,,0,Not Applicable,0
+203618,,0,Not Applicable,0
+203669,,0,Not Applicable,0
+203732,,0,Not Applicable,0
+203749,,0,Not Applicable,0
+203758,,0,Not Applicable,0
+203759,,0,Not Applicable,0
+203769,,0,Not Applicable,0
+203782,,0,Not Applicable,0
+203791,,0,Not Applicable,0
+203794,,0,Not Applicable,0
+203798,,0,Not Applicable,0
+203861,,0,Not Applicable,0
+203908,,0,Not Applicable,0
+203964,,0,Not Applicable,0
+203966,,0,Not Applicable,0
+203986,,0,Not Applicable,0
+203990,,0,Not Applicable,0
+204044,,0,Not Applicable,0
+204061,,0,Not Applicable,0
+204067,,0,Not Applicable,0
+204087,,0,Not Applicable,0
+204100,,0,Not Applicable,0
+204120,,0,Not Applicable,0
+204146,,0,Not Applicable,0
+204174,,0,Not Applicable,0
+204197,,0,Not Applicable,0
+204205,,0,Not Applicable,0
+204241,,0,Not Applicable,0
+204291,,0,Not Applicable,0
+204366,,0,Not Applicable,0
+204396,,0,Not Applicable,0
+204399,,0,Not Applicable,0
+204421,,0,Not Applicable,0
+204443,,0,Not Applicable,0
+204473,,0,Not Applicable,0
+204513,,0,Not Applicable,0
+204517,,0,Not Applicable,0
+204562,,0,Not Applicable,0
+204571,,0,Not Applicable,0
+204588,,0,Not Applicable,0
+204594,,0,Not Applicable,0
+204640,,0,Not Applicable,0
+204694,,0,Not Applicable,0
+204703,,0,Not Applicable,0
+204710,,0,Not Applicable,0
+204711,,0,Not Applicable,0
+204776,,0,Not Applicable,0
+204870,,0,Not Applicable,0
+204878,,0,Not Applicable,0
+204883,,0,Not Applicable,0
+204909,,0,Not Applicable,0
+204940,,0,Not Applicable,0
+205046,,0,Not Applicable,0
+205077,,0,Not Applicable,0
+205089,,0,Not Applicable,0
+205099,,0,Not Applicable,0
+205169,,0,Not Applicable,0
+205205,,0,Not Applicable,0
+205228,,0,Not Applicable,0
+205252,,0,Not Applicable,0
+205278,,0,Not Applicable,0
+205281,,0,Not Applicable,0
+205283,,0,Not Applicable,0
+205373,,0,Not Applicable,0
+205389,,0,Not Applicable,0
+205393,,0,Not Applicable,0
+205400,,0,Not Applicable,0
+205405,,0,Not Applicable,0
+205418,,0,Not Applicable,0
+205427,,0,Not Applicable,0
+205449,,0,Not Applicable,0
+205458,,0,Not Applicable,0
+205473,,0,Not Applicable,0
+205488,,0,Not Applicable,0
+205501,,0,Not Applicable,0
+205507,,0,Not Applicable,0
+205553,,0,Not Applicable,0
+205579,,0,Not Applicable,0
+205582,,0,Not Applicable,0
+205591,,0,Not Applicable,0
+205597,,0,Not Applicable,0
+205655,,0,Not Applicable,0
+205667,,0,Not Applicable,0
+205687,,0,Not Applicable,0
+205690,,0,Not Applicable,0
+205714,,0,Not Applicable,0
+205781,,0,Not Applicable,0
+205797,,0,Not Applicable,0
+205815,,0,Not Applicable,0
+205891,,0,Not Applicable,0
+205892,,0,Not Applicable,0
+205900,,0,Not Applicable,0
+205928,,0,Not Applicable,0
+205957,,0,Not Applicable,0
+206017,,0,Not Applicable,0
+206030,,0,Not Applicable,0
+206048,,0,Not Applicable,0
+206090,,0,Not Applicable,0
+206142,,0,Not Applicable,0
+206143,,0,Not Applicable,0
+206161,,0,Not Applicable,0
+206195,,0,Not Applicable,0
+206215,,0,Not Applicable,0
+206232,,0,Not Applicable,0
+206259,,0,Not Applicable,0
+206297,,0,Not Applicable,0
+206342,,0,Not Applicable,0
+206354,,0,Not Applicable,0
+206359,,0,Not Applicable,0
+206398,,0,Not Applicable,0
+206455,,0,Not Applicable,0
+206543,,0,Not Applicable,0
+206548,,0,Not Applicable,0
+206564,,0,Not Applicable,0
+206597,,0,Not Applicable,0
+206630,,0,Not Applicable,0
+206647,,0,Not Applicable,0
+206664,,0,Not Applicable,0
+206670,,0,Not Applicable,0
+206687,,0,Not Applicable,0
+206730,,0,Not Applicable,0
+206732,,0,Not Applicable,0
+206737,,0,Not Applicable,0
+206865,,0,Not Applicable,0
+206870,,0,Not Applicable,0
+206895,,0,Not Applicable,0
+206916,,0,Not Applicable,0
+206936,,0,Not Applicable,0
+206942,,0,Not Applicable,0
+206973,,0,Not Applicable,0
+207046,,0,Not Applicable,0
+207073,,0,Not Applicable,0
+207084,,0,Not Applicable,0
+207129,,0,Not Applicable,0
+207134,,0,Not Applicable,0
+207135,,0,Not Applicable,0
+207206,,0,Not Applicable,0
+207266,,0,Not Applicable,0
+207272,,0,Not Applicable,0
+207286,,0,Not Applicable,0
+207287,,0,Not Applicable,0
+207346,,0,Not Applicable,0
+207347,,0,Not Applicable,0
+207366,,0,Not Applicable,0
+207370,,0,Not Applicable,0
+207391,,0,Not Applicable,0
+207431,,0,Not Applicable,0
+207494,,0,Not Applicable,0
+207522,,0,Not Applicable,0
+207526,,0,Not Applicable,0
+207551,,0,Not Applicable,0
+207573,,0,Not Applicable,0
+207582,,0,Not Applicable,0
+207584,,0,Not Applicable,0
+207585,,0,Not Applicable,0
+207622,,0,Not Applicable,0
+207647,,0,Not Applicable,0
+207649,,0,Not Applicable,0
+207691,,0,Not Applicable,0
+207704,,0,Not Applicable,0
+207742,,0,Not Applicable,0
+207759,,0,Not Applicable,0
+207761,,0,Not Applicable,0
+207773,,0,Not Applicable,0
+207782,,0,Not Applicable,0
+207786,,0,Not Applicable,0
+207798,,0,Not Applicable,0
+207827,,0,Not Applicable,0
+207830,,0,Not Applicable,0
+207857,,0,Not Applicable,0
+207869,,0,Not Applicable,0
+207908,,0,Not Applicable,0
+207934,,0,Not Applicable,0
+207954,,0,Not Applicable,0
+207965,,0,Not Applicable,0
+207969,,0,Not Applicable,0
+207989,,0,Not Applicable,0
+208018,,0,Not Applicable,0
+208051,,0,Not Applicable,0
+208215,,0,Not Applicable,0
+208236,,0,Not Applicable,0
+208261,,0,Not Applicable,0
+208267,,0,Not Applicable,0
+208294,,0,Not Applicable,0
+208381,,0,Not Applicable,0
+208384,,0,Not Applicable,0
+208430,,0,Not Applicable,0
+208440,,0,Not Applicable,0
+208446,,0,Not Applicable,0
+208483,,0,Not Applicable,0
+208496,,0,Not Applicable,0
+208537,,0,Not Applicable,0
+208589,,0,Not Applicable,0
+208692,,0,Not Applicable,0
+208695,,0,Not Applicable,0
+208710,,0,Not Applicable,0
+208725,,0,Not Applicable,0
+208735,,0,Not Applicable,0
+208736,,0,Not Applicable,0
+208791,,0,Not Applicable,0
+208792,,0,Not Applicable,0
+208801,,0,Not Applicable,0
+208802,,0,Not Applicable,0
+208830,,0,Not Applicable,0
+208837,,0,Not Applicable,0
+208851,,0,Not Applicable,0
+208854,,0,Not Applicable,0
+208944,,0,Not Applicable,0
+208949,,0,Not Applicable,0
+209029,,0,Not Applicable,0
+209042,,0,Not Applicable,0
+209095,,0,Not Applicable,0
+209116,,0,Not Applicable,0
+209119,,0,Not Applicable,0
+209127,,0,Not Applicable,0
+209140,,0,Not Applicable,0
+209157,,0,Not Applicable,0
+209170,,0,Not Applicable,0
+209184,,0,Not Applicable,0
+209213,,0,Not Applicable,0
+209297,,0,Not Applicable,0
+209300,,0,Not Applicable,0
+209306,,0,Not Applicable,0
+209313,,0,Not Applicable,0
+209320,,0,Not Applicable,0
+209338,,0,Not Applicable,0
+209373,,0,Not Applicable,0
+209412,,0,Not Applicable,0
+209439,,0,Not Applicable,0
+209445,,0,Not Applicable,0
+209468,,0,Not Applicable,0
+209472,,0,Not Applicable,0
+209479,,0,Not Applicable,0
+209483,,0,Not Applicable,0
+209512,,0,Not Applicable,0
+209547,,0,Not Applicable,0
+209570,,0,Not Applicable,0
+209643,,0,Not Applicable,0
+209653,,0,Not Applicable,0
+209655,,0,Not Applicable,0
+209683,,0,Not Applicable,0
+209744,,0,Not Applicable,0
+209750,,0,Not Applicable,0
+209759,,0,Not Applicable,0
+209772,,0,Not Applicable,0
+209831,,0,Not Applicable,0
+209848,,0,Not Applicable,0
+209865,,0,Not Applicable,0
+209874,,0,Not Applicable,0
+209900,,0,Not Applicable,0
+209956,,0,Not Applicable,0
+209967,,0,Not Applicable,0
+209972,,0,Not Applicable,0
+209987,,0,Not Applicable,0
+210004,,0,Not Applicable,0
+210089,,0,Not Applicable,0
+210090,,0,Not Applicable,0
+210098,,0,Not Applicable,0
+210136,,0,Not Applicable,0
+210180,,0,Not Applicable,0
+210183,,0,Not Applicable,0
+210192,,0,Not Applicable,0
+210195,,0,Not Applicable,0
+210218,,0,Not Applicable,0
+210230,,0,Not Applicable,0
+210236,,0,Not Applicable,0
+210237,,0,Not Applicable,0
+210243,,0,Not Applicable,0
+210315,,0,Not Applicable,0
+210371,,0,Not Applicable,0
+210388,,0,Not Applicable,0
+210419,,0,Not Applicable,0
+210462,,0,Not Applicable,0
+210463,,0,Not Applicable,0
+210465,,0,Not Applicable,0
+210497,,0,Not Applicable,0
+210506,,0,Not Applicable,0
+210525,,0,Not Applicable,0
+210554,,0,Not Applicable,0
+210581,,0,Not Applicable,0
+210585,,0,Not Applicable,0
+210602,,0,Not Applicable,0
+210606,,0,Not Applicable,0
+210612,,0,Not Applicable,0
+210622,,0,Not Applicable,0
+210653,,0,Not Applicable,0
+210654,,0,Not Applicable,0
+210694,,0,Not Applicable,0
+210696,,0,Not Applicable,0
+210754,,0,Not Applicable,0
+210774,,0,Not Applicable,0
+210795,,0,Not Applicable,0
+210806,,0,Not Applicable,0
+210831,,0,Not Applicable,0
+210839,,0,Not Applicable,0
+210948,,0,Not Applicable,0
+210950,,0,Not Applicable,0
+210959,,0,Not Applicable,0
+211076,,0,Not Applicable,0
+211091,,0,Not Applicable,0
+211102,,0,Not Applicable,0
+211126,,0,Not Applicable,0
+211138,,0,Not Applicable,0
+211162,,0,Not Applicable,0
+211253,,0,Not Applicable,0
+211265,,0,Not Applicable,0
+211292,,0,Not Applicable,0
+211328,,0,Not Applicable,0
+211407,,0,Not Applicable,0
+211473,,0,Not Applicable,0
+211475,,0,Not Applicable,0
+211494,,0,Not Applicable,0
+211510,,0,Not Applicable,0
+211521,,0,Not Applicable,0
+211537,,0,Not Applicable,0
+211543,,0,Not Applicable,0
+211564,,0,Not Applicable,0
+211570,,0,Not Applicable,0
+211633,,0,Not Applicable,0
+211677,,0,Not Applicable,0
+211707,,0,Not Applicable,0
+211729,,0,Not Applicable,0
+211733,,0,Not Applicable,0
+211740,,0,Not Applicable,0
+211761,,0,Not Applicable,0
+211814,,0,Not Applicable,0
+211852,,0,Not Applicable,0
+211869,,0,Not Applicable,0
+211889,,0,Not Applicable,0
+211893,,0,Not Applicable,0
+211901,,0,Not Applicable,0
+211918,,0,Not Applicable,0
+211965,,0,Not Applicable,0
+212068,,0,Not Applicable,0
+212097,,0,Not Applicable,0
+212107,,0,Not Applicable,0
+212112,,0,Not Applicable,0
+212137,,0,Not Applicable,0
+212161,,0,Not Applicable,0
+212187,,0,Not Applicable,0
+212198,,0,Not Applicable,0
+212202,,0,Not Applicable,0
+212222,,0,Not Applicable,0
+212266,,0,Not Applicable,0
+212273,,0,Not Applicable,0
+212281,,0,Not Applicable,0
+212293,,0,Not Applicable,0
+212330,,0,Not Applicable,0
+212359,,0,Not Applicable,0
+212376,,0,Not Applicable,0
+212379,,0,Not Applicable,0
+212391,,0,Not Applicable,0
+212412,,0,Not Applicable,0
+212419,,0,Not Applicable,0
+212512,,0,Not Applicable,0
+212522,,0,Not Applicable,0
+212527,,0,Not Applicable,0
+212587,,0,Not Applicable,0
+212597,,0,Not Applicable,0
+212615,,0,Not Applicable,0
+212674,,0,Not Applicable,0
+212692,,0,Not Applicable,0
+212718,,0,Not Applicable,0
+212755,,0,Not Applicable,0
+212789,,0,Not Applicable,0
+212805,,0,Not Applicable,0
+212819,,0,Not Applicable,0
+212832,,0,Not Applicable,0
+212843,,0,Not Applicable,0
+212863,,0,Not Applicable,0
+212869,,0,Not Applicable,0
+212900,,0,Not Applicable,0
+212901,,0,Not Applicable,0
+212911,,0,Not Applicable,0
+212925,,0,Not Applicable,0
+212948,,0,Not Applicable,0
+212962,,0,Not Applicable,0
+213001,,0,Not Applicable,0
+213012,,0,Not Applicable,0
+213031,,0,Not Applicable,0
+213034,,0,Not Applicable,0
+213046,,0,Not Applicable,0
+213075,,0,Not Applicable,0
+213099,,0,Not Applicable,0
+213135,,0,Not Applicable,0
+213144,,0,Not Applicable,0
+213219,,0,Not Applicable,0
+213265,,0,Not Applicable,0
+213268,,0,Not Applicable,0
+213271,,0,Not Applicable,0
+213285,,0,Not Applicable,0
+213337,,0,Not Applicable,0
+213379,,0,Not Applicable,0
+213413,,0,Not Applicable,0
+213439,,0,Not Applicable,0
+213442,,0,Not Applicable,0
+213468,,0,Not Applicable,0
+213485,,0,Not Applicable,0
+213498,,0,Not Applicable,0
+213502,,0,Not Applicable,0
+213510,,0,Not Applicable,0
+213530,,0,Not Applicable,0
+213535,,0,Not Applicable,0
+213544,,0,Not Applicable,0
+213567,,0,Not Applicable,0
+213578,,0,Not Applicable,0
+213630,,0,Not Applicable,0
+213639,,0,Not Applicable,0
+213730,,0,Not Applicable,0
+213733,,0,Not Applicable,0
+213734,,0,Not Applicable,0
+213753,,0,Not Applicable,0
+213754,,0,Not Applicable,0
+213801,,0,Not Applicable,0
+213860,,0,Not Applicable,0
+213868,,0,Not Applicable,0
+213896,,0,Not Applicable,0
+213918,,0,Not Applicable,0
+213924,,0,Not Applicable,0
+213972,,0,Not Applicable,0
+214012,,0,Not Applicable,0
+214067,,0,Not Applicable,0
+214098,,0,Not Applicable,0
+214106,,0,Not Applicable,0
+214118,,0,Not Applicable,0
+214227,,0,Not Applicable,0
+214239,,0,Not Applicable,0
+214262,,0,Not Applicable,0
+214350,,0,Not Applicable,0
+214382,,0,Not Applicable,0
+214419,,0,Not Applicable,0
+214429,,0,Not Applicable,0
+214438,,0,Not Applicable,0
+214448,,0,Not Applicable,0
+214472,,0,Not Applicable,0
+214473,,0,Not Applicable,0
+214478,,0,Not Applicable,0
+214525,,0,Not Applicable,0
+214540,,0,Not Applicable,0
+214551,,0,Not Applicable,0
+214553,,0,Not Applicable,0
+214569,,0,Not Applicable,0
+214571,,0,Not Applicable,0
+214572,,0,Not Applicable,0
+214640,,0,Not Applicable,0
+214672,,0,Not Applicable,0
+214683,,0,Not Applicable,0
+214700,,0,Not Applicable,0
+214722,,0,Not Applicable,0
+214728,,0,Not Applicable,0
+214756,,0,Not Applicable,0
+214810,,0,Not Applicable,0
+214812,,0,Not Applicable,0
+214822,,0,Not Applicable,0
+214850,,0,Not Applicable,0
+214859,,0,Not Applicable,0
+214907,,0,Not Applicable,0
+214923,,0,Not Applicable,0
+214943,,0,Not Applicable,0
+214966,,0,Not Applicable,0
+214968,,0,Not Applicable,0
+214975,,0,Not Applicable,0
+214994,,0,Not Applicable,0
+215002,,0,Not Applicable,0
+215016,,0,Not Applicable,0
+215069,,0,Not Applicable,0
+215070,,0,Not Applicable,0
+215080,,0,Not Applicable,0
+215101,,0,Not Applicable,0
+215120,,0,Not Applicable,0
+215123,,0,Not Applicable,0
+215151,,0,Not Applicable,0
+215170,,0,Not Applicable,0
+215223,,0,Not Applicable,0
+215226,,0,Not Applicable,0
+215290,,0,Not Applicable,0
+215296,,0,Not Applicable,0
+215311,,0,Not Applicable,0
+215316,,0,Not Applicable,0
+215320,,0,Not Applicable,0
+215325,,0,Not Applicable,0
+215340,,0,Not Applicable,0
+215358,,0,Not Applicable,0
+215394,,0,Not Applicable,0
+215416,,0,Not Applicable,0
+215463,,0,Not Applicable,0
+215478,,0,Not Applicable,0
+215517,,0,Not Applicable,0
+215585,,0,Not Applicable,0
+215594,,0,Not Applicable,0
+215600,,0,Not Applicable,0
+215616,,0,Not Applicable,0
+215618,,0,Not Applicable,0
+215619,,0,Not Applicable,0
+215650,,0,Not Applicable,0
+215675,,0,Not Applicable,0
+215677,,0,Not Applicable,0
+215743,,0,Not Applicable,0
+215807,,0,Not Applicable,0
+215808,,0,Not Applicable,0
+215816,,0,Not Applicable,0
+215825,,0,Not Applicable,0
+215832,,0,Not Applicable,0
+215892,,0,Not Applicable,0
+215928,,0,Not Applicable,0
+215930,,0,Not Applicable,0
+215969,,0,Not Applicable,0
+215992,,0,Not Applicable,0
+215998,,0,Not Applicable,0
+216052,,0,Not Applicable,0
+216092,,0,Not Applicable,0
+216110,,0,Not Applicable,0
+216130,,0,Not Applicable,0
+216157,,0,Not Applicable,0
+216160,,0,Not Applicable,0
+216195,,0,Not Applicable,0
+216214,,0,Not Applicable,0
+216217,,0,Not Applicable,0
+216221,,0,Not Applicable,0
+216226,,0,Not Applicable,0
+216238,,0,Not Applicable,0
+216297,,0,Not Applicable,0
+216339,,0,Not Applicable,0
+216360,,0,Not Applicable,0
+216370,,0,Not Applicable,0
+216395,,0,Not Applicable,0
+216396,,0,Not Applicable,0
+216399,,0,Not Applicable,0
+216422,,0,Not Applicable,0
+216428,,0,Not Applicable,0
+216598,,0,Not Applicable,0
+216622,,0,Not Applicable,0
+216706,,0,Not Applicable,0
+216723,,0,Not Applicable,0
+216730,,0,Not Applicable,0
+216776,,0,Not Applicable,0
+216791,,0,Not Applicable,0
+216793,,0,Not Applicable,0
+216801,,0,Not Applicable,0
+216806,,0,Not Applicable,0
+216841,,0,Not Applicable,0
+216843,,0,Not Applicable,0
+216877,,0,Not Applicable,0
+216940,,0,Not Applicable,0
+216947,,0,Not Applicable,0
+216973,,0,Not Applicable,0
+216978,,0,Not Applicable,0
+217009,,0,Not Applicable,0
+217014,,0,Not Applicable,0
+217016,,0,Not Applicable,0
+217044,,0,Not Applicable,0
+217121,,0,Not Applicable,0
+217125,,0,Not Applicable,0
+217129,,0,Not Applicable,0
+217159,,0,Not Applicable,0
+217195,,0,Not Applicable,0
+217203,,0,Not Applicable,0
+217245,,0,Not Applicable,0
+217248,,0,Not Applicable,0
+217272,,0,Not Applicable,0
+217370,,0,Not Applicable,0
+217385,,0,Not Applicable,0
+217418,,0,Not Applicable,0
+217431,,0,Not Applicable,0
+217438,,0,Not Applicable,0
+217465,,0,Not Applicable,0
+217482,,0,Not Applicable,0
+217501,,0,Not Applicable,0
+217504,,0,Not Applicable,0
+217583,,0,Not Applicable,0
+217663,,0,Not Applicable,0
+217683,,0,Not Applicable,0
+217756,,0,Not Applicable,0
+217780,,0,Not Applicable,0
+217791,,0,Not Applicable,0
+217801,,0,Not Applicable,0
+217821,,0,Not Applicable,0
+217827,,0,Not Applicable,0
+217859,,0,Not Applicable,0
+217862,,0,Not Applicable,0
+217868,,0,Not Applicable,0
+217876,,0,Not Applicable,0
+217877,,0,Not Applicable,0
+217925,,0,Not Applicable,0
+217943,,0,Not Applicable,0
+217951,,0,Not Applicable,0
+217991,,0,Not Applicable,0
+218013,,0,Not Applicable,0
+218035,,0,Not Applicable,0
+218040,,0,Not Applicable,0
+218044,,0,Not Applicable,0
+218131,,0,Not Applicable,0
+218205,,0,Not Applicable,0
+218221,,0,Not Applicable,0
+218244,,0,Not Applicable,0
+218252,,0,Not Applicable,0
+218255,,0,Not Applicable,0
+218298,,0,Not Applicable,0
+218307,,0,Not Applicable,0
+218357,,0,Not Applicable,0
+218368,,0,Not Applicable,0
+218391,,0,Not Applicable,0
+218415,,0,Not Applicable,0
+218426,,0,Not Applicable,0
+218438,,0,Not Applicable,0
+218499,,0,Not Applicable,0
+218510,,0,Not Applicable,0
+218556,,0,Not Applicable,0
+218570,,0,Not Applicable,0
+218583,,0,Not Applicable,0
+218585,,0,Not Applicable,0
+218598,,0,Not Applicable,0
+218641,,0,Not Applicable,0
+218684,,0,Not Applicable,0
+218705,,0,Not Applicable,0
+218724,,0,Not Applicable,0
+218734,,0,Not Applicable,0
+218750,,0,Not Applicable,0
+218762,,0,Not Applicable,0
+218777,,0,Not Applicable,0
+218799,,0,Not Applicable,0
+218824,,0,Not Applicable,0
+218834,,0,Not Applicable,0
+218838,,0,Not Applicable,0
+218873,,0,Not Applicable,0
+218886,,0,Not Applicable,0
