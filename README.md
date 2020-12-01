@@ -19,3 +19,5 @@ matplotlib``
 ## Appendix
 
 You can obtain your custom data by modifying the file ``creatMnist.py ``.
+
+The source sees  https://github.com/LukeZhuang/IVRAE.
