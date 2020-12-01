@@ -3,8 +3,8 @@
 
 This project is about tumor growth prediction by Conditional Recurrent Variantional Auto-Encoder.
 
-# Prepare
+## Prepare
 
-``tensorflow
-numpy
+``tensorflow,
+numpy,
 matplotlib``
