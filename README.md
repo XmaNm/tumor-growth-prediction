@@ -10,4 +10,6 @@ numpy,
 matplotlib``
 
 ## Implementation 
-jupyter notebook
+cd to main. ``jupyter notebook``
+
+run  ``CRVAE.ipynb``
