@@ -16,3 +16,6 @@ matplotlib``
 
 3. run  ``CRVAE.ipynb``
 
+## Appendix
+
+You can obtain your custom data by modifying the file ``creatMnist.py ``.
