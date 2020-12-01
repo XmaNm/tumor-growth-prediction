@@ -10,6 +10,10 @@ numpy,
 matplotlib``
 
 ## Implementation 
-cd to main. ``jupyter notebook``
+1. cd to main directory. 
 
-run  ``CRVAE.ipynb``
+2. ``jupyter notebook``
+
+3. run  ``CRVAE.ipynb``
+
+## Implementation 
