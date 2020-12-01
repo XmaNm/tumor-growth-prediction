@@ -16,4 +16,3 @@ matplotlib``
 
 3. run  ``CRVAE.ipynb``
 
-## Implementation 
