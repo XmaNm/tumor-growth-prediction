@@ -16,7 +16,12 @@ matplotlib``
 
 3. run  ``CRVAE.ipynb``
 
+## Demo
+
+https://user-images.githubusercontent.com/30771950/126948973-30d94043-5287-47b7-bb91-b44947d969a8.mp4
+
 ## Appendix
+
 
 You can obtain your custom data by modifying the file ``creatMnist.py ``.
 
